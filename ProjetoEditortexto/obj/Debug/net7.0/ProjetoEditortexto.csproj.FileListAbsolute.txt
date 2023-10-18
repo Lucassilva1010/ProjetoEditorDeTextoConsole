@@ -1,0 +1,14 @@
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\bin\Debug\net7.0\ProjetoEditortexto.exe
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\bin\Debug\net7.0\ProjetoEditortexto.deps.json
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\bin\Debug\net7.0\ProjetoEditortexto.runtimeconfig.json
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\bin\Debug\net7.0\ProjetoEditortexto.dll
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\bin\Debug\net7.0\ProjetoEditortexto.pdb
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\ProjetoEditortexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\ProjetoEditortexto.AssemblyInfoInputs.cache
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\ProjetoEditortexto.AssemblyInfo.cs
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\ProjetoEditortexto.csproj.CoreCompileInputs.cache
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\ProjetoEditortexto.dll
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\refint\ProjetoEditortexto.dll
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\ProjetoEditortexto.pdb
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\ProjetoEditortexto.genruntimeconfig.cache
+C:\Teste\ProjetoEditorDeTexto\ProjetoEditortexto\obj\Debug\net7.0\ref\ProjetoEditortexto.dll
